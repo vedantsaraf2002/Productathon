@@ -1,4 +1,4 @@
-# hackathon2
+# SOFTWARE PRODUCTATHON
 
 A new Flutter project.
 
