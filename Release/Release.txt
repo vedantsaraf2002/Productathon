@@ -1,0 +1,3 @@
+Our tool is a cross-platform application that can be used on web, mobile app (both android and iOS) adn even as a desktop app.
+
+For testing here's the apk that can be installed on any android device.
